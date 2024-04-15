@@ -1,7 +1,7 @@
 # ssher-telegram
 
 You can run the ssh forwarding like this, you need to have a telegram bot and get your chatid from your chat or group. You can also set this program as a 
-systemd service which will run in boot, see (here)[https://www.howtogeek.com/687970/how-to-run-a-linux-program-at-startup-with-systemd/]. 
+systemd service which will run in boot, see [here](https://www.howtogeek.com/687970/how-to-run-a-linux-program-at-startup-with-systemd/). 
 
 ## Requirements
 ```
